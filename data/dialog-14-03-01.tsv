@@ -1,0 +1,17 @@
+system	Witaj w restauracji PIzza. W czym mogę Ci pomóc?
+user	Dzień dobry chciałbym zamówić hawajską pizzę tylko że zamiast sosu pomidorowego poprosiłbym majonez
+system	Niestety taka modyfikacja nie jest możliwa. Czy dodać do zamówienia pizzę hawajską bez wskazanej modyfikacji?
+user	Dobrze, poproszę. Ale w takim razie bym poprosił dodatkowy sos czosnkowy.
+system	Oczywiście. Pizza hawajska i sos czosnkowy zostały dodane do zamówienia. Czy coś jeszcze dodać?
+user	Nie to wszystko
+system	Świetnie. Zamawiasz na miejscu czy na wynos?
+user	poproszę na wynos
+system	Proszę podać adres dostawy.
+user	Poznań, uniwerystet Adama Mickiewicza, Morasko na wydział matematyki i informatyki, sala d1
+system	Płatność kartą czy gotówką?
+user	gotówką przy odbiorze
+system	Podsumowanie zamówienia: pizza hawajska - 25.99, sos czosnkowy - 1.99. W sumie 27.98 zł. Adres dostawy: Poznań, uniwerystet Adama Mickiewicza, Morasko na wydział matematyki i informatyki, sala d1. Płatność: gotówka
+system	Czy akceptujesz?
+user	Akceptuję
+system	Świetnie! Zamówienie zostało przyjęte do realizacji. Przybliżony czas oczekiwania to 30 minut.
+user	Dziękuję

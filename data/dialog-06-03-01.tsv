@@ -1,0 +1,11 @@
+system	Witaj w restauracji PIzza. W czym mogę Ci pomóc?
+user	hej, jestem na masie, chciałbym zjeść coś wysokokalorycznego z możliwie największą ilością białka. Co możesz mi zaproponować?
+system	Proponuję pizzę mięsną. Jest to najbardziej kaloryczna pizza z naszego menu. Czy akceptujesz?
+user	jakie mięso mam do wyboru?
+system	Głównym składnikiem pizzy mięsnej jest kurczak. Istnieje możliwość zamiany tego składnika na szynke pepperoni lub wołowinę.
+user	Poproszę pizzę z kurczakiem.
+system	Pizza mięsna została dodana do listy. Czy chciałbyś dodać coś jeszcze?
+user	To wszystko.
+system	Świetnie. Zamawiasz na miejscu czy na wynos?
+user	Poproszę na miejscu.
+system	Wyśmienicie! Twoje danie zaraz zostanie przygotowane. Przybliżony czas oczekiwania to 20 minut.

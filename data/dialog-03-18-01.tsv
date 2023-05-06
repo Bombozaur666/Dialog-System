@@ -1,0 +1,11 @@
+user	dzień dobry
+system	Dzień dobry, co by Pan sobie życzył zamówić?
+user	chciałbym zamówić pizzę hawajską
+system	Dobrze, życzy Pan sobie jakieś sosy?
+user	tak, 2 sosy czosnkowe
+system	Jasne, coś do picia?
+user	fante
+system	Dobrze, to wszystko ?
+user	tak
+system	Dobrze, w takim razie dziękuję za złożenie zamówienia. W razie wątpliwości, lub pytań proszę pisać.
+user	dziękuję

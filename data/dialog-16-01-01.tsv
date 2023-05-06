@@ -1,0 +1,7 @@
+user	dzien dobry, w czytm specjalizuje sie restauracja?	hello()&request(restaurant_speciality)
+system	Dzień dobry, specialuzjemy się w kuchni meksykańskiej, cyz mogę przyjąć zamówienie?	inform(restaurant_speciality='kuchnia meksykańska')&request(order)
+user	Czy mogłby pan cos polecic?	request(dish_recommendation)
+system	Polecam chilli concarne, nasi goście je bardzo polecają	inform(dish_recommendation='chili concarne')
+user	to chciałbym je spróbować	confirm(order=['chili concarne'])
+system	Czy coś do Picia chce Pan do picia?	request(anything_to_drink)
+user	whyski	inform(anything_to_drink='whyski')

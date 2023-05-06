@@ -1,0 +1,13 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar order;
+
+public <zamow> = chcialbym zamowic <rodzaj> <rozmiar> <liczba_osob> ;
+
+<rodzaj> = (pizze | <NULL>) (vesuvio | hawajska | amerykanska | grecka) {kind};
+
+<rozmiar> = (mala | srednia | duza | XXL) {size};
+
+<liczba_osob> = (na | dla) <liczba> {plates} (osób | osoby);
+
+<liczba> = (dwie | dwóch | dwoch | trzy | trzech | cztery | czterech | piec | pięć | pieciu);

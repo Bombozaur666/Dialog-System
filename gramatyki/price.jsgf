@@ -1,0 +1,9 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar price;
+
+
+<price> = <cena> ;
+
+public <cena> = (ile | jaki jest | jaka jest | w jakiej jest | <NULL>) (całkowity | <NULL>)
+(koszt | kosztuje | cena | cenie) (pizza | pizze | pizzy | zamówienia | <NULL>);

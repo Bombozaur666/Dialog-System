@@ -1,0 +1,8 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar hello;
+
+
+<hello> = <greeting> ;
+
+public <greeting> = (dzień dobry | cześć | siema | witam);

@@ -1,0 +1,13 @@
+user	dzień dobry	hello()
+system	Dzień dobry, w czym mogę pomóc?	welcomemsg()
+user	chciałbym zamówić pizzę pepperoni, sos czosnkowy i wodę niegazowaną	inform(order=['pizza_pepperoni','garlic_sauce','water'])	
+system	oczywiście, czy będzie to na miejscu, na dowóz czy na wynos?	affirm()&select(receive=['for_here','to_go','delivery'])
+user	na wynos	inform(receive='to_go')
+system	dobrze, zamówienie będzie gotowe do odbioru za 50 minut	affirm()&inform(wait_time='50 minutes')
+system	płatność internetowo czy na miejscu?	select(payment=['online','on_receipt'])
+user	online	inform(payment='online')
+system	przesyłam odnosnik do platności online	request
+user	czekam już 20 minut	inform(wait_time='too_long')
+user	anuluję zamówienie	inform(order='cancel')
+user	to skandal	null()
+system	dobrze, przepraszamy za niedostateczna jakosc obslugi	affirm()&sorry()
