@@ -24,6 +24,7 @@ for file in data_files:
     for line in f:
         sep = line.split('\t')
         if sep[0] == 'user':
+            print(f)
             lines.append([sep[1], sep[2]])
 
 
