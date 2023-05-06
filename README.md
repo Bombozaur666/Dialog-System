@@ -3,7 +3,7 @@
 
 Project made to learn how to dialog system works.
 
-Dialog language is `polih`, so not everyone will be able to use this propely ;). 
+Dialog language is `polish`, so not everyone will be able to use this propely ;). 
 
 
 It is dockerised because nlu library `pyjsfg` will work only on Linux system. I wanted to work on it on every system, not specyfied.
