@@ -1,0 +1,24 @@
+user	dzień dobry
+system	Dzień dobry, jestem automatycznym systemem do zamawiania potraw w restauracji. W czym mogę pomóc?
+user	chciałbym zamówić pizzę pepperoni
+system	Moja restauracja nie słynie z kuchni tradycyjnych, takich jak polska, włoska czy chińska. Reprezentuję firmę McZiomals, która oferuje głównie dania typu fast-food. W ofercie firmy znajdują się dodatkowo napoje oraz desery.
+user	dobrze, to poproszę burgera
+system	Nie jestem pewny jaką kanapkę typu burger masz na myśli. Oto dostępne burgery w naszej restauracji: Hamburger  Cheeseburger  Big Mac® McRoyal®  WieśMac® McChicken® Jalapeño Burger Chikker® Red Chikker McDouble® Podwójny McRoyal® Podwójny WieśMac® McWrap® Klasyczny Chrupiący Kurczak 1McWrap® Bekon DeLuxe Chrupiący Kurczak
+user	poproszę McChickena
+system	Dopisano pozycję McChicken do Twojej listy. Czy chciałabyś dodać coś jeszcze?
+user	frytki
+system	Rozumiem, że chciałbyś dodać do swojej listy frytki. Oto co mogę ci zaproponować: Frytki małe, Frytki średnie, Frytki duże
+user	poproszę duże frytki
+system	Dopisano pozycję duże frytki do Twojej listy. Czy chciałabyś dodać coś jeszcze?
+user	dużą fante
+system	Dopisano pozycję duża Fanta do Twojej listy. Czy chciałabyś dodać coś jeszcze?
+user	nie, dziękuję
+user	to wszystko
+system	Rozumiem, że Twoje zamówienie jest zakończone. Oto możliwe sposoby odbioru jedzenia: odbiór osobisty, dostawa
+system	Sumarycznie Twoje zamówienie na ten moment wynosi 13,69zł.
+user	dostawa
+system	Wybrałeś dostawę do domu. Proszę o podanie adresu, na który nasza restauracja powinna dostarczyć zamówienie.
+user	Ulica Towarowa 22/61 Poznań
+system	Rozumiem, że ulica na którą mamy dostarczyć zamówienie to ulica Towarowa 22/61. Dostawą Twojego zamówienia zajmie się nasz doręczyciel Ahmed. Jedzenie powinno być w Twoich rękach za 30 minut.
+system	Dziękujemy za korzystanie z naszych usług.
+user	dziękuję!

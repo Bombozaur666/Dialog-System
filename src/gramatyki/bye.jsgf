@@ -1,0 +1,7 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar bye;
+
+public <bye> = <goodbye>;
+
+<goodbye> = ((do widzenia) | czesc);

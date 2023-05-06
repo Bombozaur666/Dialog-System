@@ -1,0 +1,12 @@
+user	Witaj
+user	Kim jesteś?
+system	Dzień dobry. Witam w restauracji PIzza. W czym mogę pomóc?
+user	Chciałbym zamówić pizzę z mięsem
+user	Co możesz polecić?
+system	Dostępne pozycje w menu spełniające podane kryteria to: pepperoni, napoli, BBQ bacon
+user	Napoli poproszę
+system	Rozmiar średni
+user	Bez sosów i bez napoju.
+user	Czy oferujecie dostawę w Poznaniu?
+system	Pizza Napoli średnia została dodana do zamówienia.
+system	Oczywiście, dostawa w Poznaniu jest dostępna. Proszę wskazać adres dostawy.

@@ -1,0 +1,8 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar delivery;
+
+
+<deliverys> = <droga> ;
+
+public <droga> = (na | <NULL>) (dowoz | miejscu | wynos);

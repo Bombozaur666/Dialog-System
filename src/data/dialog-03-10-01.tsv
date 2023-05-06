@@ -1,0 +1,12 @@
+user	dzień dobry
+system	Witam w restauracji XYZ, w czym mogę pomóc?
+user	chciałbym zamówić pizzę
+system	Jasne pizze które dziś serwujemy to: 4 sery, Caprichioza, Rzeźnicka, Marinara
+user	poproszę pizzę 4 sery
+system	Pizza 4 sery - 35 zł
+system	Czy chcesz zamówić coś jeszcze?
+user	nie, to wszystko
+system	Ok wolisz odebrać zamówienie czy skorzystać z dowozu?
+user	chcę odebrać zamówienie
+system	Ok w takim razie proszę o podanie godziny odbioru i życzymy smacznego!
+user	20:30

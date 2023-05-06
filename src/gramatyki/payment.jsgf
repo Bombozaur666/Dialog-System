@@ -1,0 +1,8 @@
+#JSGF V1.0 UTF-8 pl;
+
+grammar payment;
+
+
+<payment> = <platnosc> ;
+
+public <platnosc> = (płacę | zapłacę | płatność | <NULL>) (kartą | gotówką | online | przy odbiorze);
